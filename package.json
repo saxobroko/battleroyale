@@ -6,6 +6,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
+	"build": "./public/build.sh",
     "test": "mocha test"
   },
   "keywords": [
